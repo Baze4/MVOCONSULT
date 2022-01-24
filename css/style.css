@@ -38,7 +38,7 @@ a{
 .nav-bar a
 {
  text-decoration: none;
- color: black;
+ color: #FFFFFF;
  cursor: pointer;
 }
 .nav-bar a:hover{
@@ -78,6 +78,7 @@ header
 /* animated letters */
 .ml12 {
   font-weight: 200;
+  color:whitesmoke;
   font-size: 1.1em;
   text-transform: uppercase;
   letter-spacing: 0.2em;
