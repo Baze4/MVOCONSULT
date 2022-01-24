@@ -166,7 +166,7 @@ anime.timeline({loop: true})
           });
 
 $('.clients').slick({
-        slidesToShow: 2,
+        slidesToShow: 1,
         slidesToScroll: 1,
         arrows: false,
         autoplay: true,
